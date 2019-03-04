@@ -21,6 +21,7 @@
     3. sasha    
 
 [ini link google](https://google.com)
+
 ![ini link gambar](https://cdn.idntimes.com/content-images/community/2017/09/onzfq-zbn3yx-20c26c51f7594472d5edaab7bb72a090_600x400.jpg)
 
 Kata:
